@@ -1,0 +1,5 @@
+#ignore build artifacts
+service.html
+
+#ignore log files
+product.html
